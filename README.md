@@ -1,6 +1,5 @@
 
 # Black Friday 
-## Capstone
 
 Welcome to the Purchase Prediction Model project! This application leverages machine learning techniques to predict user purchase behavior based on demographic and product category data.
 
